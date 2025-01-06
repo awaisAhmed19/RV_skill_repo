@@ -3,7 +3,7 @@
 #Version:
 #Created Date: Fri Dec 27 11:13:37 PM IST 2024
 #Modified Date:
-#Author: Kajal Chauhan
+#Author: awais ahmed 
 # START #
 echo "Your current given parameters are $#"
 if [ $# -lt 1 ];then

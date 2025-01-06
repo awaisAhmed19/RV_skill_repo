@@ -3,7 +3,7 @@
 #Version: 1.0
 #Created Date: Fri Jan 3 09:25:48 PM IST 2025
 #Modified Date:
-#Author: Kajal Chauhan
+#Author: awais ahmed
 # START #
 echo "Enter Directory name"
 read dir
