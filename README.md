@@ -18,8 +18,7 @@ The videos cover the following advanced algorithm problems:
 2. **String Manipulation**
    - Split a **binary string** into substrings with an equal number of `0`s and `1`s.
 
-3. **Linked List Operations**
-   - **Segregate even and odd nodes** in a linked list.
+3. **Linked List Operations**  
    - **Find the factorial** of a number using a **linked list**.
 
 4. **Heap Operations**
